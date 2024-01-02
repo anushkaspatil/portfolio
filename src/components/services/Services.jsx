@@ -37,15 +37,15 @@ const Services = () => {
           <ul className='service_list'>
             <li>
             <BsCheckAll />
-            <p>Interviewed 80 candidates and selected a core team of 5, & a committee of 20.</p>
+            <p>Addressed 250+ students in the 1st informative session, resulting in a 54% increase in community membership</p>
             </li>
             <li>
             <BsCheckAll />
-            <p>Conducted an informative session of GDSC addressing 200 freshmen.</p>
+            <p>Encouraged 50+ students to participate in the Google Solution Challenge (GSC) by conducting an interactive session with Arin Yadav</p>
             </li>
             <li>
             <BsCheckAll />
-            <p>Working on inter-college open source program Google Developers Student Winter of Code.</p>
+            <p>The Top 10 Finalist, the only team representing India globally in the GSC 2023. </p>
             </li>
             <li>
             <BsCheckAll />
@@ -65,11 +65,11 @@ const Services = () => {
             </li>
             <li>
             <BsCheckAll />
-            <p>Embracing cutting-edge technologies like OpenAI, Vertex AI, and TensorFlow to enhance ReX, our AI Coach.</p>
+            <p> Working on an AI-powered interview preparation tool designed to assist users in honing their skills</p>
             </li>
             <li>
             <BsCheckAll />
-            <p> It's an opportunity to craft intelligent solutions </p>
+            <p>It would guide the users through technical questions, situational judgment tests</p>
             </li>
             
           </ul>

@@ -40,7 +40,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Dedicated to continuous learning and at the forefront of technology, I lead projects like AQI/WQI monitoring, merging physical sensing with machine learning, for Smart India Hackathon 2023 and Ambassador for the Giakaa Open Web3 Community, I showcase a deep interest in problem-solving and emerging tech. I'm the Google Developers Student Club Lead at PVGCOET for the year 2023-24.
+          Dedicated to continuous learning and at the forefront of technology, Ambassador & Founder of the Giakaa Open Web3 Community, I showcase a deep interest in problem-solving and emerging tech. Google Developers Student Club Lead at PVGCOET for the year 2023-24.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

@@ -11,22 +11,22 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Portfolio',
+    title: 'Personal Portfolio Website',
     github: "https://github.com/anushkaspatil/Portfolio",
     demo: ""
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Log Ingestor and Query Interface',
-    github: "https://github.com/anushkaspatil/Log-Ingestor-and-Query-Interface",
+    title: 'Placement Prediction Toy Project',
+    github: "https://github.com/anushkaspatil/placement-prediction",
     demo: ""
   },
   {
     id: 3,
     image: IMG3,
-    title: 'This is a portfolio item title',
-    github: "https://github.com/anushkaspatil",
+    title: 'Cats & Dogs image classifier',
+    github: "https://github.com/anushkaspatil/cats-vs-dogs-classifier",
     demo: ""
   },
   /*{
@@ -67,9 +67,9 @@ const Portfolio = () => {
             <img src={image} alt={title} />
            </div>
             <h3>{title}</h3>
-            <div className='portfolio_item-cta'>
+            <div className='portfolio_item-cta custom-button-container'>
               <a href={github} className='btn' target='_blank' rel="noreferrer">Github</a>
-              <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+              {/* <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a> */}
             </div>
         </article>
         )
